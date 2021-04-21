@@ -1,2 +1,2 @@
-# Java
+# gitTest
 first for my studies
